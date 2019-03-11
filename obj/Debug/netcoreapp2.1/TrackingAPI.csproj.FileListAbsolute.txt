@@ -1,0 +1,14 @@
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\bin\Debug\netcoreapp2.1\TrackingAPI.deps.json
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\bin\Debug\netcoreapp2.1\TrackingAPI.runtimeconfig.json
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\bin\Debug\netcoreapp2.1\TrackingAPI.runtimeconfig.dev.json
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\bin\Debug\netcoreapp2.1\TrackingAPI.dll
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\bin\Debug\netcoreapp2.1\TrackingAPI.pdb
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.csprojResolveAssemblyReference.cache
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.csproj.CoreCompileInputs.cache
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.RazorAssemblyInfo.cache
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.RazorAssemblyInfo.cs
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.AssemblyInfoInputs.cache
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.AssemblyInfo.cs
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.RazorTargetAssemblyInfo.cache
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.dll
+c:\users\ukothiralla\source\repos\TrackingAPI\TrackingAPI\obj\Debug\netcoreapp2.1\TrackingAPI.pdb
